@@ -1,5 +1,7 @@
 # Pixel Art Generator
 
+It takes an image and pixelates it. Works in the browser with power from HTML5 canvas.
+
 *Currently in development. Still polishing some stuff.*
 
 ### Instructions
